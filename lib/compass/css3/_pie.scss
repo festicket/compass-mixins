@@ -1,4 +1,4 @@
-$experimental-support-for-pie: true;
+$experimental-support-for-pie: false !default;
 
 // It is recommended that you use Sass's @extend directive to apply the behavior
 // to your PIE elements. To assist you, Compass provides this variable.
